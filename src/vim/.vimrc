@@ -31,4 +31,3 @@ set smartcase
 set autoread
 set listchars=tab:»■,trail:■
 set list
-
